@@ -6,6 +6,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - and i love doing that all!
+- yes it should be chane
 
 <!---
 Jahanzaib101/Jahanzaib101 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
